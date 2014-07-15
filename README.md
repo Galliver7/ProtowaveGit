@@ -6,16 +6,18 @@ http://www.protowave.org
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Protowave Developers
 
-What is Protowave?
+Protowaveとは?
 ----------------
 
-Protowave is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+Protowaveはscryptを使用したLitecoinの派生通貨です.
+勉強のために作成したので、プレマイニングを行っていますし、その他の管理なども適当です。
+ですので使用は自己責任でお願いします。
+ - 1.2 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 30 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
